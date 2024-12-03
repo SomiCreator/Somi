@@ -1,5 +1,7 @@
 # Somi : AI-Powered Twitter Interaction Bot
 
+## [Visti Twitter Page](https://x.com/imtherealsomi)
+
 ## Overview
 
 **Somi** is an intelligent, real-time Twitter interaction bot designed to enhance user engagement through natural, context-aware conversations. By leveraging OpenAI's GPT-3 and the Twitter API, Somi responds to mentions with personalized replies, interacts in a self-centered human-like manner, and engages with users to simulate seamless social interactions.
