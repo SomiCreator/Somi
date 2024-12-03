@@ -2,6 +2,8 @@
 
 ## [Visti Twitter Page](https://x.com/imtherealsomi)
 
+https://github.com/user-attachments/assets/8822de08-54df-4508-b6ab-7bbc72261086
+
 ## Overview
 
 **Somi** is an intelligent, real-time Twitter interaction bot designed to enhance user engagement through natural, context-aware conversations. By leveraging OpenAI's GPT-3 and the Twitter API, Somi responds to mentions with personalized replies, interacts in a self-centered human-like manner, and engages with users to simulate seamless social interactions.
